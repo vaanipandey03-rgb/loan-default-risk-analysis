@@ -48,6 +48,16 @@ Within the Low Income, Unemployed, 200K+ Loan Amount, and 20%–25% Interest Rat
 ## Power BI Dashboard
 The dashboard contains two pages:
 
+### Dashboard Preview
+
+#### Page 1: Portfolio Overview
+
+![Loan Default Risk - Portfolio Overview]("C:\portfolio_overview.png")
+
+#### Page 2: Credit Risk & Risk Segmentation
+
+![Credit Risk and Risk Segmentation]("C:\credit_risk_segmentation.png")
+
 - **Portfolio Overview:** Overall KPIs and default-rate comparisons across income, age, credit score, and employment type.
 - **Credit Risk & Risk Segmentation:** Loan amount and interest rate analysis, credit score and DTI comparisons, DTI group analysis, and income segmentation within a higher-risk loan segment.
 
